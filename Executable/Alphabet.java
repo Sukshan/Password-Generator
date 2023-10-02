@@ -7,6 +7,8 @@ public class Alphabet{
 
 	public static final String SYMBOLS = "!@#$%^&*()-_=+\\/~?";
 
+	private final StringBuilder pool;
+
 	public Alphabet(boolean uppercaseIncluded , boolean lowercaseIncluded, boolean numbersIncluded, boolean specialCharactersIncluded){
 
 		pool = new StringBuilder();
