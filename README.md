@@ -1,3 +1,8 @@
+To run the program, clone the repo in your local system. Open the terminal window in current folder. First type 'cd Executable' and then 'java Main' into your terminal.
+
+
+Functionalities
+
 1. Generating a Password:
 	The user answers with "Yes" or "No" to questions about using uppercase letters, lowercase letters, numbers, or symbols.
 	The user then enters the desired length of the password.
@@ -11,4 +16,4 @@
 	This determines the strength of the password given by the user(weak/medium/good/great).
 
 3. Displaying Useful Information:
-	This is a minor feature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
+	This is a minor feature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard 		patterns, dictionary words, letter or number sequences, etc.
